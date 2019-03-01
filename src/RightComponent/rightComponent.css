@@ -1,0 +1,17 @@
+.right-top {
+  height: 60%;
+  width: 100%;
+  border: solid yellow 5px;
+  background-image: url(../images/rightTop.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.right-bottom {
+  height: 40%;
+  width: 100%;
+  border: solid pink 5px;
+  background-image: url(../images/rightBottom.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
